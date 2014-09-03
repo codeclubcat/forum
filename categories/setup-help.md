@@ -1,11 +1,11 @@
 ---
 layout: category
-title: Setup Help
+title: test
 category: true
-summary: Get help setting up the Jekyll Disqus Forum
-id: 2736938
+summary: una prova
+id: 3219876
 group-id: help
 ---
 
-# Setup Help
-Get help setting up the Jekyll Disqus Forum
+# test
+una prova del fòrum de codeclubcat
