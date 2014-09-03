@@ -2,6 +2,7 @@
 layout: home
 ---
 
-# Jekyll Disqus Forum
+# Fòrum de CodeClubCat 
 
-A simple forum managed by Jekyll and powered by Disqus. Find out more on [github](http://www.github.com/klcodanr/Jekyll-Disqus-Forum).
+Un lloc per fer preguntes i rebre *feedback* sobre els CodeClubs catalans.
+
