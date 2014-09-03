@@ -1,12 +1,12 @@
 ---
 layout: category
-title: General Help
+title: Ajuda General
 category: true
-summary: Get help with any aspect of the Jekyll Disqus Forum.
+summary: Ajuda sobre els Codeclubs catalans en general.
 id: 3219731
 group-id: help
 ---
 
-# General help
+# Ajuda General
 
-Get help with any aspect of the Jekyll Disqus Forum.
+Ajuda sobre els codeclubs catalans en general
