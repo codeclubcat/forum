@@ -1,11 +1,9 @@
 ---
 layout: category-group
-title: Help
+title: Seccions
 category-group: true
 summary: Find what you need help with here!
 id: help
 ---
 
-# Help
-
-Get help using Jekyll Disqus Forum.
+# Seccions
