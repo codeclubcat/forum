@@ -3,7 +3,7 @@ layout: category
 title: General Help
 category: true
 summary: Get help with any aspect of the Jekyll Disqus Forum.
-id: 2736939
+id: 3219731
 group-id: help
 ---
 
