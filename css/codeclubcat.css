@@ -3,3 +3,49 @@ body {
   border-top-color: #c6elec;
 }
 
+.navbar-default {
+  background: none;
+  border: none;
+}
+
+a.navbar-brand {
+  padding: .5em 0 .5em 1em;
+}
+
+.home p {
+  font-size: 120%;
+}
+
+.breadcrumb {
+  padding: 0;
+  background: none;
+  margin-bottom: -.6em;
+}
+.panel-title {
+  font-weight: bold;
+}
+
+.nou-tema {
+  margin-top: 1em;
+}
+.nou-tema > .panel-heading {
+  background: #fff;
+}
+.nou-tema h4 {
+  font-weight: bold;
+}
+.seccions {
+  margin-top: 2em;
+}
+.pager {
+  margin-bottom: 0;
+}
+.media-heading {
+  margin: 0 0 2px;
+}
+.media-body p {
+  opacity: .7;
+}
+.num-comments {
+  font-size: 1.4rem;
+}

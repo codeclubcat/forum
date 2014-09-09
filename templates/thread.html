@@ -1,7 +1,11 @@
 <script id="thread" type="text/html">
 <li class="media" id="{{id}}">
     <div class="media-body">
-    	<h4 class="media-heading"><span class="status {{status}}"></span>&nbsp;<a href="{{link}}">{{title}}</a> &mdash; {{ posts }} comment(s)</h4>
+    	<h4 class="media-heading">
+        <!-- <span class="status {{status}}"></span> &nbsp; -->
+        <a href="{{link}}">{{title}}</a>
+        <span class="num-comments">&mdash; {{ posts }} comentari(s)</span>
+      </h4>
 		<p>
 			<small>Created on {{startDate}} by <span class="author-{{author}}">{{}}</span></small>
 		</p>

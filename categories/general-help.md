@@ -7,4 +7,4 @@ id: 3219731
 group-id: help
 ---
 
-<h1 class="page-header">Ajuda General</h1>
+# Ajuda General

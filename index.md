@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# Fòrum de CodeClubCat 
-
-Un lloc per fer preguntes i rebre *feedback* sobre els CodeClubs catalans.
+Un fòrum per fer preguntes, resoldre dubtes i compartir les
+experiències sobre els CodeClubs catalans.
 

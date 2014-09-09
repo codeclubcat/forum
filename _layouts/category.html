@@ -10,7 +10,8 @@ scripts: [/js/category.js]
 	<li class="active">{{ page.title }}</li>
 </ol>
 <div class="row"><div class="col-lg-12">{{ content }}</div></div>
-<div class="panel panel-default">
+<div class="row"><div class="col-lg-4 col-md-6">
+<div class="panel panel-default nou-tema">
 	<div id="new-thread-container" class="panel-collapse collapse">
 		<div class="panel-body">
 			<form id="new-thread" class="form-inline" role="form" action="{{ site.baseurl }}/thread.html">
@@ -36,19 +37,23 @@ scripts: [/js/category.js]
 		</h4>
 	</div>
 </div>
-<h2>Temes</h2>
-<div class="row">
-	<div class="col-lg-12">
-		<div id="thread-loader" class="progress progress-striped active">
-			<div class="progress-bar"  role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
-				<span>Carregant temes...</span>
-			</div>
+</div></div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Temes</h3>
+  </div>
+  <div class="panel-body">
+	 <div id="thread-loader" class="progress progress-striped active">
+		<div class="progress-bar"  role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+		  <span>Carregant temes...</span>
 		</div>
-		<ul id="threads" class="media-list" data-id="{{ page.id }}">
-		</ul>
-		<ul class="pager">
-			<li class="previous disabled"><a href="#">&larr; Anterior</a></li>
-			<li class="next disabled"><a href="#">Següent &rarr;</a></li>
-		</ul>
-	</div>
+	 </div>
+	 <ul id="threads" class="media-list" data-id="{{ page.id }}">
+	 </ul>
+	 <ul class="pager">
+		<li class="previous disabled"><a href="#">&larr; Anterior</a></li>
+		<li class="next disabled"><a href="#">Següent &rarr;</a></li>
+	 </ul>
+  </div>
 </div>
