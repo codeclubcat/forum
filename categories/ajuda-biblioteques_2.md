@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Ajuda Biblioteques (Ediició Abril-Juny 2015)
+title: Ajuda Biblioteques (Edició Abril-Juny 2015)
 category: true
 summary: Forum per resoldre dubtes sobre els Codeclubs a les biblioteques (2a edició).
 id: 3634656
