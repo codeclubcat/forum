@@ -1,13 +1,12 @@
 ---
 layout: category
-title: Ajuda Biblioteques
+title: Ajuda Biblioteques (1era edició)
 category: true
-summary: Ajuda pels Codeclubs a les Biblioteques
+summary: Forum per resoldre dubtes sobre els Codeclubs a les biblioteques (obsolet 1era edició).
 id: 3255207
 group-id: help
 ---
 
-# Ajuda Codeclubs a les biblioteques
+# General help
 
-Punt d'informació i ajuda per tots els Codeclubs a les bibliteques
-
+Get help with any aspect of the Jekyll Disqus Forum.
