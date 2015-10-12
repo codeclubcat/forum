@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Ajuda Biblioteques
+title: Ajuda Biblioteques (2ona edició)
 category: true
 summary: Forum per resoldre dubtes sobre els Codeclubs a les biblioteques (2a edició).
 id: 3634656
