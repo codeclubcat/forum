@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Ajuda Biblioteques
+title: Ajuda Biblioteques (3a edició Octubre-Desembre 2015)
 category: true
 summary: Forum per resoldre dubtes sobre els Codeclubs a les biblioteques (3a edició).
 id: 4035716
